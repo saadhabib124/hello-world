@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I am a Web Developer. I am working in WordPress, PHP, Codeigniter. 
